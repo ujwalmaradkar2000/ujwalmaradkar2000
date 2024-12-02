@@ -2,6 +2,7 @@
 <h3 align="center">A passionate programmer from Bharat</h3>
 
 - 🌱 I’m currently learning **Full Stack Development with MERN Stack.**
+-  **and enhancing Java Springboot skills learned in the previous job**
 
 - 👯I’m interested in **application development, microservices architecture, and cutting-edge
 technologies.**
